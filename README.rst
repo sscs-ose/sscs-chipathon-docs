@@ -7,6 +7,6 @@ SSCS Chipathon 2026
 
 .. This README.rst should work on Github and is also included in the Sphinx documentation project in docs/ - therefore, README.rst uses absolute links for most things so it renders properly on GitHub
 
-The ``SSCS Chipathon 2025`` is an exciting opportunity for participants to explore chip design. For more information, please visit the official `SSCS page <https://github.com/sscs-ose/sscs-chipathon-2026>`_
+The ``SSCS Chipathon 2025`` is an exciting opportunity for all the participants to explore chip design. For more information, please visit the official `SSCS page <https://github.com/sscs-ose/sscs-chipathon-2026>`_
 
 
