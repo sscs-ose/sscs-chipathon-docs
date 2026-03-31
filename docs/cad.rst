@@ -1,9 +1,9 @@
 EDA Tools
 ===========
 
-.. autosummary::
-   :toctree: generated
+.. toctree::
+   :maxdepth: 2 
 
-   OSIC-Tools
-
-
+   cad-klayout
+   cad-prop-vs-opensrc
+    
