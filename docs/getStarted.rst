@@ -1,7 +1,7 @@
 Getting Started
 ==================
 
-.. autosummary::
-   :toctree: generated
-
-   OSIC-Tools
+.. toctree::
+   :maxdepth: 2 
+    
+   getStarted-glayout
