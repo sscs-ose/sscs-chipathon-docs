@@ -3,7 +3,7 @@
 ## Contribution from a Collaborator
 
 - `git clone git@github.com:sscs-ose/sscs-chipathon-docs.git`
-- `git checkout -b mybranch`
+##- `git checkout -b mybranch`
 - Make contribution
 - `git commit -m "comment" -a`
 - `git push -u origin mybranch`
