@@ -5,5 +5,4 @@ EDA Tools
    :maxdepth: 2 
 
    cad-klayout
-   cad-prop-vs-opensrc
     
