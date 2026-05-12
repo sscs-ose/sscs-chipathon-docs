@@ -238,7 +238,8 @@ Following instructions are from `https://github.com/subhransu-01/sky130-magic` :
   - [OSIC-TOOLS GitHub Page](https://github.com/iic-jku/iic-osic-tools)
 
 - **End-to-End Design-to-Layout Flow**
-  - [Open Source VLSI](https://github.com/stineje/gf180mcu-open-source-vlsi): A great detail set of deep tutorials from James Stine and team at OSU.
+  - [Open Source VLSI](https://github.com/stineje/gf180mcu-open-source-vlsi): A great detail set of deep tutorials from [James Stine](https://github.com/stineje) and team at OSU.
+  - [Analog design flow with opensource tools](https://unic-cass.github.io/training/analog-flow.html): Great set of schematic-to-layout tutorials from [IEEE UNIC-CASS](https://unic-cass.github.io/) using the IHP-SG13G2 PDK. 
   - [Drawing an inverter](https://docs.google.com/document/d/1hSLKsz9xcEJgAMmYYer5cDwvPqas9_JGRUAgEORx1Yw/edit#heading=h.j6gtadx04fb6): A google doc by Ryan Ridley, Teo Ene, and James E. Stine. Detail step-by-step guide for SKY-130nm process.
   - [Video: Xschem-to-Magic Flow](https://www.youtube.com/watch?v=ZZ5fIBwLZ0k&t=2s): Tiny Tapeout Analog Submission Guide | IEEE Open Silicon IC Design Bootcamp (Philippines) A good 19min succint guide.
   - [Analog Circuit Design Flow](https://analogicus.com/rply_ex0_sky130nm/tutorial) by Carsten Wulff
